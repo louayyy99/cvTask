@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="userimageDesc">userImage</string>
+    <string name="fullname">Fullname</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+</resources>
